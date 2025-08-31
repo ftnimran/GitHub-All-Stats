@@ -90,7 +90,7 @@
 
 ## <img src="https://res.cloudinary.com/dynjwlpl3/image/upload/v1676625638/Projects%20readme/lets-go-hqo_njsbbx.gif" width="25"> <b>Top repository</b>
 <div align="center">
-  <a href="#" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftn05&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=Shayari-Club"></a>
-  <a href="#" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftn05&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=Web-Series-Store"></a>
+  <a href="#" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftn05&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo="></a>
+  <a href="#" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftn05&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo="></a>
 </div>
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
