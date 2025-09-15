@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Ali Bhai</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Imran Ali</h1>
 
 [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00BFFF&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;MERN+Stack+Developer+👨🏻‍💻;Frontend+Developer+👨🏻‍💻;Backend+Developer+👨🏻‍💻;1200%2B+Hours+of+Coding+Experience+⚡️)</div>](https://git.io/typing-svg)
 
