@@ -82,7 +82,21 @@
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ftn05&theme=tokyonight&utcOffset=5.30">
   <img style="height: 11rem;" src="https://github-contributor-stats.vercel.app/api?username=ftn05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"  />
   <img class="ht1" id="github-top-langs" style="border: 1px solid rgb(119, 105, 236); height: 11rem;" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ftn05&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true' height="150">
-  
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ftnimran\&show_icons=true\&theme=tokyonight&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+# WakaTime
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ftnimran\&layout=compact)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ftnimran)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ftnimran\&hide_progress=true)
+
+
+
 </div>
 <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
 
