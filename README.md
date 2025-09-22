@@ -96,15 +96,7 @@
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ftnimran\&hide_progress=true)
 
 
- <a 
-                  href="https://github-readme-streak-stats.herokuapp.com?user=shraddha-gawde&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"
-                  target="_blank"><img id="github-streak-stats"
-                    src="https://github-readme-streak-stats.herokuapp.com?user=shraddha-gawde&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=495"
-                    alt="GitHub Streak" /></a>
-
-
-
-<img style="background-color: green; color: green;" src="https://ghchart.rshah.org/ftnimran" alt="GitHub Streak&show_icons=true&theme=tokyonight" />
+<img src="https://ghchart.rshah.org/ftnimran" alt="GitHub Streak&show_icons=true&theme=tokyonight" />
 
 
 
