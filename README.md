@@ -73,15 +73,15 @@
 
 <div align="center">
   <h2  align='left'><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats</h2>
-  <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?username=ftn05&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ftn05&locale=en&hide_title=false&layout=compact&card_width=220&langs_count=10&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ftn05&theme=tokyonight" >
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ftn05&theme=tokyonight" >
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ftn05&theme=tokyonight" >
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ftn05&theme=tokyonight" >
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ftn05&theme=tokyonight&utcOffset=5.30">
-  <img style="height: 11rem;" src="https://github-contributor-stats.vercel.app/api?username=ftn05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"  />
-  <img class="ht1" id="github-top-langs" style="border: 1px solid rgb(119, 105, 236); height: 11rem;" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ftn05&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true' height="150">
+  <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?username=ftnimran&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ftnimran&locale=en&hide_title=false&layout=compact&card_width=220&langs_count=10&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ftnimran&theme=tokyonight" >
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ftnimran&theme=tokyonight" >
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ftnimran&theme=tokyonight" >
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ftnimran&theme=tokyonight" >
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ftnimran&theme=tokyonight&utcOffset=5.30">
+  <img style="height: 11rem;" src="https://github-contributor-stats.vercel.app/api?username=ftnimran&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"  />
+  <img class="ht1" id="github-top-langs" style="border: 1px solid rgb(119, 105, 236); height: 11rem;" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ftnimran&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true' height="150">
 
 
 
@@ -104,7 +104,7 @@
 
 ## <img src="https://res.cloudinary.com/dynjwlpl3/image/upload/v1676625638/Projects%20readme/lets-go-hqo_njsbbx.gif" width="25"> <b>Top repository</b>
 <div align="center">
-  <a href="#" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftn05&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo="></a>
-  <a href="#" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftn05&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo="></a>
+  <a href="#" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftnimran&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo="></a>
+  <a href="#" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftnimran&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo="></a>
 </div>
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
